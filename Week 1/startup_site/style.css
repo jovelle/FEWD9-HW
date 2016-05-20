@@ -1,0 +1,26 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+div {
+	border: 1px dotted blue;
+	height: 200px;
+}
+
+ul {
+	text-align: center;
+}
+
+li {
+	border: 1px dotted green;
+	display: inline-block;
+	height: 100px;
+	width: 200px;
+}
+
+span {
+	border: 1px solid red;
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+}
