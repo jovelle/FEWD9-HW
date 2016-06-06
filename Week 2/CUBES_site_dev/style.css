@@ -1,0 +1,48 @@
+body,
+div {
+	font-family: 'Palanquin Dark', sans-serif;
+}
+
+.container {
+	max-width: 1200px;
+	margin: auto;
+	height: 2000px;
+}
+
+div {
+	border: 1px dotted blue;
+	height: 200px;
+}
+
+ul {
+	text-align: center;
+}
+
+li {
+	border: 1px solid green;
+	display: inline-block;
+}
+
+span {
+	border: 1px solid red;
+	display: inline-block;
+	height: 200px;
+}
+
+#hero {
+	text-align: center;
+	height: 90vh;
+	background-color: #FFDB23;
+
+}
+
+#menu {
+	height: 10vh;
+	background-color: #FFDB23;
+}
+
+img {
+	max-width: 500px;
+	display: block;
+	margin: 0 auto;
+}
